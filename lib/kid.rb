@@ -9,5 +9,4 @@ class Kid
     @name = name 
   end 
   
-  
 end 
